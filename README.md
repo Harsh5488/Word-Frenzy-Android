@@ -3,6 +3,8 @@
 ## Overview
 
 Word Frenzy is a fun and educational Android app that allows users to unscramble words and explore a comprehensive dictionary containing over 10,000 words. The app not only helps users unscramble words but also provides related words that share the same letters. Whether you're a word enthusiast or just looking to improve your vocabulary, Word Frenzy is the perfect app for you.
+</br>
+</br>
 **[Link to Word Frenzy on Google Play Store](https://play.google.com/store/apps/details?id=com.BinaryCoders.wordfrenzy)** 
 
 
@@ -37,9 +39,10 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
 
 
 ## Video Demo
-
-[![Splash Screen](https://img.youtube.com/vi/Kgp9He_UEp0/0.jpg)](https://www.youtube.com/watch?v=Kgp9He_UEp0)
-[![App Demo](https://img.youtube.com/vi/4ADf_YTaKQk/0.jpg)](https://www.youtube.com/watch?v=4ADf_YTaKQk)  
+The Splash Screen of the Word Frenzy Application</br>
+[![Splash Screen](https://img.youtube.com/vi/Kgp9He_UEp0/0.jpg)](https://www.youtube.com/watch?v=Kgp9He_UEp0)</br>
+</br>The App Demo Video</br>
+[![App Demo](https://img.youtube.com/vi/4ADf_YTaKQk/0.jpg)](https://www.youtube.com/watch?v=4ADf_YTaKQk)  </br>
 
 
 
